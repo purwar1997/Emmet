@@ -1,0 +1,22 @@
+body {
+  background-color: #b9345a;
+  font-family: 'Verdana';
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 20px;
+}
+
+a {
+  color: black;
+}
