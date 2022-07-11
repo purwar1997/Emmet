@@ -1,4 +1,29 @@
+body {
+  background-color: #1c8d73;
+  font-family: 'Verdana';
+  font-size: 20px;
+}
+
 img {
   width: 100px;
   height: 70px;
+  margin: 100px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  text-align: center;
+  text-decoration: underline;
+  padding: 5px;
+}
+
+button {
+  font-size: 20px;
+  padding: 5px;
+}
+
+a {
+  color: #b4161b;
 }
